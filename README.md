@@ -13,4 +13,4 @@ new terminal and run command: php artisan serve
 
 new terminal and run command: npm run dev
 
-![Image](../public/e-learning.png)
+![Image](../master/public/e-learning.png)
