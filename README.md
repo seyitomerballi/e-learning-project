@@ -7,4 +7,8 @@ make database connection
 
 php artisan migrate:refresh --seed
 
-npm run dev
+php artisan key:generate
+
+new terminal and run command: php artisan serve
+
+new terminal and run command: npm run dev
