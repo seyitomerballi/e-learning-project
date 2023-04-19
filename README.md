@@ -12,3 +12,5 @@ php artisan key:generate
 new terminal and run command: php artisan serve
 
 new terminal and run command: npm run dev
+
+![My Image](..public/e-learning.png)
